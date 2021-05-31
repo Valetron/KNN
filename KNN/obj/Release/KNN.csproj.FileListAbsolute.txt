@@ -1,0 +1,11 @@
+D:\Visual_Studio_projects\KNN\bin\Release\KNN.exe.config
+D:\Visual_Studio_projects\KNN\bin\Release\KNN.exe
+D:\Visual_Studio_projects\KNN\bin\Release\KNN.pdb
+D:\Visual_Studio_projects\KNN\obj\Release\KNN.csprojAssemblyReference.cache
+D:\Visual_Studio_projects\KNN\obj\Release\KNN.Form1.resources
+D:\Visual_Studio_projects\KNN\obj\Release\KNN.Properties.Resources.resources
+D:\Visual_Studio_projects\KNN\obj\Release\KNN.csproj.GenerateResource.cache
+D:\Visual_Studio_projects\KNN\obj\Release\KNN.csproj.CoreCompileInputs.cache
+D:\Visual_Studio_projects\KNN\obj\Release\KNN.exe
+D:\Visual_Studio_projects\KNN\obj\Release\KNN.pdb
+D:\Visual_Studio_projects\KNN\obj\Release\KNN.Form_graph.resources
